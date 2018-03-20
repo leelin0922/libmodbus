@@ -5,6 +5,10 @@ A groovy modbus library
 
 Overview
 --------
+# for ubuntu
+# 1,sudo apt-get install libtool
+# 2,sudo apt-get install autoconf
+# 3,sudo apt-get install automake
 
 libmodbus is a free software library to send/receive data with a device which
 respects the Modbus protocol. This library can use a serial port or an Ethernet
